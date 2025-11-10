@@ -18,10 +18,11 @@
     {"name":"Other","order":5,"path":"folders/Objects/Other.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sWall01","order":3,"path":"sprites/sWall01/sWall01.yy",},
     {"name":"oCampfire","order":4,"path":"objects/oCampfire/oCampfire.yy",},
     {"name":"oWater","order":1,"path":"objects/oWater/oWater.yy",},
     {"name":"oWall","order":6,"path":"objects/oWall/oWall.yy",},
-    {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sWall00","order":2,"path":"sprites/sWall00/sWall00.yy",},
     {"name":"sCampfire","order":1,"path":"sprites/sCampfire/sCampfire.yy",},
     {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
   ],
