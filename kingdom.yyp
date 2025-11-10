@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Other","folderPath":"folders/Objects/Other.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -36,6 +37,8 @@
   "resources": [
     {"id":{"name":"oCampfire","path":"objects/oCampfire/oCampfire.yy",},},
     {"id":{"name":"oWater","path":"objects/oWater/oWater.yy",},},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sCampfire","path":"sprites/sCampfire/sCampfire.yy",},},
     {"id":{"name":"oGround","path":"objects/oGround/oGround.yy",},},

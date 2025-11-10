@@ -15,12 +15,14 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Other","order":5,"path":"folders/Objects/Other.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oCampfire","order":4,"path":"objects/oCampfire/oCampfire.yy",},
-    {"name":"oWater","order":2,"path":"objects/oWater/oWater.yy",},
+    {"name":"oWater","order":1,"path":"objects/oWater/oWater.yy",},
+    {"name":"oWall","order":6,"path":"objects/oWall/oWall.yy",},
+    {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
     {"name":"sCampfire","order":1,"path":"sprites/sCampfire/sCampfire.yy",},
-    {"name":"oGround","order":1,"path":"objects/oGround/oGround.yy",},
     {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
   ],
 }
