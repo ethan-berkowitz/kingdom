@@ -20,6 +20,7 @@
     {"name":"oBuilding","order":5,"path":"folders/Scripts/oBuilding.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"oCoin","order":8,"path":"objects/oCoin/oCoin.yy",},
     {"name":"sWall01","order":3,"path":"sprites/sWall01/sWall01.yy",},
     {"name":"oCampfire","order":4,"path":"objects/oCampfire/oCampfire.yy",},
     {"name":"oWater","order":1,"path":"objects/oWater/oWater.yy",},
@@ -29,6 +30,7 @@
     {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oBuilding","order":7,"path":"objects/oBuilding/oBuilding.yy",},
     {"name":"useCoin","order":3,"path":"scripts/useCoin/useCoin.yy",},
+    {"name":"sCoin","order":4,"path":"sprites/sCoin/sCoin.yy",},
     {"name":"playerMove","order":2,"path":"scripts/playerMove/playerMove.yy",},
   ],
 }

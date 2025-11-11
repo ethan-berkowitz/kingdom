@@ -4,7 +4,7 @@ var camY = camera_get_view_y(cam);
 
 draw_set_font(fDefault);
 draw_set_color(c_white);
-draw_text(camX + 32, camY + 32, "Coins: " + string(coins));
+draw_text(camX + 32, camY + 32, "Coins: " + string(oPlayer.coins));
 
 
 
