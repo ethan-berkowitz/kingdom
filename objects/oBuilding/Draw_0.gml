@@ -1,0 +1,14 @@
+draw_self();
+showCoinSlots();
+
+
+
+
+
+
+
+
+
+
+
+

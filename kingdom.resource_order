@@ -5,6 +5,7 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Other","order":5,"path":"folders/Objects/Other.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -15,7 +16,8 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Other","order":5,"path":"folders/Objects/Other.yy",},
+    {"name":"oPlayer","order":4,"path":"folders/Scripts/oPlayer.yy",},
+    {"name":"oBuilding","order":5,"path":"folders/Scripts/oBuilding.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sWall01","order":3,"path":"sprites/sWall01/sWall01.yy",},
@@ -25,5 +27,8 @@
     {"name":"sWall00","order":2,"path":"sprites/sWall00/sWall00.yy",},
     {"name":"sCampfire","order":1,"path":"sprites/sCampfire/sCampfire.yy",},
     {"name":"oPlayer","order":3,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oBuilding","order":7,"path":"objects/oBuilding/oBuilding.yy",},
+    {"name":"useCoin","order":3,"path":"scripts/useCoin/useCoin.yy",},
+    {"name":"playerMove","order":2,"path":"scripts/playerMove/playerMove.yy",},
   ],
 }

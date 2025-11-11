@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "playerMove",
+  "name": "useCoin",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

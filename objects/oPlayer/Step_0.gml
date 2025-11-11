@@ -1,3 +1,5 @@
 playerMove();
+useCoin();
+showNearestBuilding();
 
 
